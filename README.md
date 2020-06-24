@@ -18,7 +18,7 @@ When you have completed this code pattern, you will understand how to:
 1. Use Docker Desktop to create a Python action zip file
 2. Upload the action to IBM Cloud Functions
 3. Create a Box Skill application which uses your function's endpoint
-4. Enable your Box Skill application for .docx files in a whitelist of folders
+4. Enable your Box Skill application for .docx files in an allowlist of folders
 5. Box users will see a card describing concepts and keywords in documents
 
 # Steps
